@@ -19,16 +19,17 @@
 - 反映後は実行を継続
 
 ## 現在アクティブなプロジェクト
-- **プロジェクト名**: 転文作成（tenbun-maker）
-- **ディレクトリ**: `/word-play/tenbun-maker/`
-- **開始日**: 2025年6月15日
-- **作成対象**: 順方向と逆方向で異なる意味を持つ文章
-- **現在のtry**: try04（8-10文字転文への挑戦）
+- **プロジェクト名**: パングラム作成（pangram-maker）
+- **ディレクトリ**: `/word-play/pangram-maker/`
+- **開始日**: 2025年6月16日
+- **作成対象**: すべてのひらがなを含む最短文章
+- **現在の段階**: 調査・ドキュメント作成完了
 
 ## プロジェクト一覧
 1. **palindromes-maker** - 回文作成プロジェクト（一時停止中）
-2. **tenbun-maker** - 転文作成プロジェクト（アクティブ）
-3. （今後追加予定：リポグラム、パングラム、だじゃれなど）
+2. **tenbun-maker** - 転文作成プロジェクト（完了）
+3. **pangram-maker** - パングラム作成プロジェクト（アクティブ）
+4. （今後追加予定：リポグラム、だじゃれなど）
 
 ## 共通ルール
 
@@ -49,11 +50,11 @@
 3. 成果と知見を文書化
 4. 定期的な評価と改善
 
-## 現在の優先事項（転文プロジェクト）
-- 8文字以上の長文転文への挑戦
-- 文字数評価基準の適用
-- 10文字転文の実現
-- 転文記録の更新
+## 現在の優先事項（パングラムプロジェクト）
+- ひらがな46文字を含む自然な文章作成
+- 100文字以下のパングラム実現
+- 文字チェックスクリプトの開発
+- いろは歌を超える現代パングラムへの挑戦
 
 ## ディレクトリ構造
 ```
@@ -66,7 +67,12 @@
 │   ├── docs/
 │   ├── src/
 │   └── outputs/
-└── tenbun-maker/         # 転文プロジェクト（現在アクティブ）
+├── tenbun-maker/         # 転文プロジェクト（完了）
+│   ├── CLAUDE.md
+│   ├── docs/
+│   ├── src/
+│   └── outputs/
+└── pangram-maker/        # パングラムプロジェクト（現在アクティブ）
     ├── CLAUDE.md
     ├── docs/
     ├── src/
@@ -90,10 +96,11 @@
 
 ## 参照ドキュメント
 
-### 現在のプロジェクト（転文）
-- エージェントガイド：`/word-play/tenbun-maker/CLAUDE.md`
-- 文字数評価基準：`/word-play/tenbun-maker/docs/length-based-evaluation-criteria.md`
-- 最新ランキング：`/word-play/tenbun-maker/docs/recalculated-rankings.md`
+### 現在のプロジェクト（パングラム）
+- エージェントガイド：`/word-play/pangram-maker/CLAUDE.md`
+- パングラム概要：`/word-play/pangram-maker/docs/pangram-overview.md`
+- 作成戦略：`/word-play/pangram-maker/docs/pangram-creation-strategies.md`
+- 評価基準：`/word-play/pangram-maker/docs/pangram-evaluation-criteria.md`
 
 ### プロジェクト管理
 - 管理手順：`/word-play/project-management-guide.md`
@@ -107,4 +114,4 @@
 - [x] 前プロジェクトの知見をまとめる
 
 ---
-*最終更新: 2025年6月15日 - 最重要命令を追加、try04実施中*
+*最終更新: 2025年6月16日 - パングラムプロジェクト開始*
