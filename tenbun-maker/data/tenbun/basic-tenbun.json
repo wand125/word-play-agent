@@ -1,0 +1,143 @@
+{
+  "metadata": {
+    "created": "2025-06-15",
+    "updated": "2025-06-15",
+    "total_count": 7,
+    "average_score": 17.1
+  },
+  "tenbun_list": [
+    {
+      "id": "tb001",
+      "forward": {
+        "text": "いか",
+        "reading": "いか",
+        "meaning": "烏賊（海産物）",
+        "pos": "名詞"
+      },
+      "backward": {
+        "text": "かい",
+        "reading": "かい",
+        "meaning": "貝（海産物）",
+        "pos": "名詞"
+      },
+      "score": 18.4,
+      "category": "海産物",
+      "created_date": "2025-06-15",
+      "try_number": "try01"
+    },
+    {
+      "id": "tb002",
+      "forward": {
+        "text": "しか",
+        "reading": "しか",
+        "meaning": "鹿（動物）",
+        "pos": "名詞"
+      },
+      "backward": {
+        "text": "かし",
+        "reading": "かし",
+        "meaning": "樫（樹木）",
+        "pos": "名詞"
+      },
+      "score": 17.8,
+      "category": "自然",
+      "created_date": "2025-06-15",
+      "try_number": "try01"
+    },
+    {
+      "id": "tb003",
+      "forward": {
+        "text": "くり",
+        "reading": "くり",
+        "meaning": "栗（植物）",
+        "pos": "名詞"
+      },
+      "backward": {
+        "text": "りく",
+        "reading": "りく",
+        "meaning": "陸（地形）",
+        "pos": "名詞"
+      },
+      "score": 17.4,
+      "category": "自然",
+      "created_date": "2025-06-15",
+      "try_number": "try01"
+    },
+    {
+      "id": "tb004",
+      "forward": {
+        "text": "やまと",
+        "reading": "やまと",
+        "meaning": "大和（古称・地名）",
+        "pos": "固有名詞"
+      },
+      "backward": {
+        "text": "とまや",
+        "reading": "とまや",
+        "meaning": "苫屋（茅葺きの小屋）",
+        "pos": "名詞"
+      },
+      "score": 17.0,
+      "category": "日本文化",
+      "created_date": "2025-06-15",
+      "try_number": "try01"
+    },
+    {
+      "id": "tb005",
+      "forward": {
+        "text": "きつね",
+        "reading": "きつね",
+        "meaning": "狐（動物）",
+        "pos": "名詞"
+      },
+      "backward": {
+        "text": "ねつき",
+        "reading": "ねつき",
+        "meaning": "寝付き（睡眠への移行）",
+        "pos": "名詞"
+      },
+      "score": 16.6,
+      "category": "動物・行動",
+      "created_date": "2025-06-15",
+      "try_number": "try01"
+    },
+    {
+      "id": "tb006",
+      "forward": {
+        "text": "たに",
+        "reading": "たに",
+        "meaning": "谷（地形）",
+        "pos": "名詞"
+      },
+      "backward": {
+        "text": "にた",
+        "reading": "にた",
+        "meaning": "似た（類似している）",
+        "pos": "動詞連体形"
+      },
+      "score": 16.5,
+      "category": "地形・状態",
+      "created_date": "2025-06-15",
+      "try_number": "try01"
+    },
+    {
+      "id": "tb007",
+      "forward": {
+        "text": "みなと",
+        "reading": "みなと",
+        "meaning": "港（場所）",
+        "pos": "名詞"
+      },
+      "backward": {
+        "text": "となみ",
+        "reading": "となみ",
+        "meaning": "砺波（富山県の地名）",
+        "pos": "固有名詞"
+      },
+      "score": 16.2,
+      "category": "地理",
+      "created_date": "2025-06-15",
+      "try_number": "try01"
+    }
+  ]
+}

@@ -1,0 +1,326 @@
+{
+  "metadata": {
+    "created": "2025-06-15",
+    "updated": "2025-06-15",
+    "theme": "四季（春夏秋冬）",
+    "total_count": 29,
+    "average_score": 17.9
+  },
+  "seasonal_tenbun": {
+    "春": {
+      "count": 6,
+      "items": [
+        {
+          "id": "sp001",
+          "forward": {
+            "text": "くさ",
+            "reading": "くさ",
+            "meaning": "草（植物）",
+            "pos": "名詞"
+          },
+          "backward": {
+            "text": "さく",
+            "reading": "さく",
+            "meaning": "咲く（開花）",
+            "pos": "動詞"
+          },
+          "score": 19.3,
+          "chars": 2,
+          "note": "春の成長を象徴する転文"
+        },
+        {
+          "id": "sp002",
+          "forward": {
+            "text": "はな",
+            "reading": "はな",
+            "meaning": "花",
+            "pos": "名詞"
+          },
+          "backward": {
+            "text": "なは",
+            "reading": "なは",
+            "meaning": "那覇（地名）",
+            "pos": "固有名詞"
+          },
+          "score": 16.5,
+          "chars": 2
+        },
+        {
+          "id": "sp003",
+          "forward": {
+            "text": "さくら",
+            "reading": "さくら",
+            "meaning": "桜",
+            "pos": "名詞"
+          },
+          "backward": {
+            "text": "らくさ",
+            "reading": "らくさ",
+            "meaning": "楽さ（口語）",
+            "pos": "名詞"
+          },
+          "score": 17.0,
+          "chars": 3
+        },
+        {
+          "id": "sp004",
+          "forward": {
+            "text": "にじ",
+            "reading": "にじ",
+            "meaning": "虹",
+            "pos": "名詞"
+          },
+          "backward": {
+            "text": "じに",
+            "reading": "じに",
+            "meaning": "死に",
+            "pos": "動詞連用形"
+          },
+          "score": 16.8,
+          "chars": 2
+        },
+        {
+          "id": "sp005",
+          "forward": {
+            "text": "たね",
+            "reading": "たね",
+            "meaning": "種（種子）",
+            "pos": "名詞"
+          },
+          "backward": {
+            "text": "ねた",
+            "reading": "ねた",
+            "meaning": "ネタ（材料）",
+            "pos": "名詞"
+          },
+          "score": 17.5,
+          "chars": 2
+        },
+        {
+          "id": "sp006",
+          "forward": {
+            "text": "めぐみ",
+            "reading": "めぐみ",
+            "meaning": "恵み",
+            "pos": "名詞"
+          },
+          "backward": {
+            "text": "みぐめ",
+            "reading": "みぐめ",
+            "meaning": "見込め（古語）",
+            "pos": "動詞"
+          },
+          "score": 16.2,
+          "chars": 3
+        }
+      ]
+    },
+    "夏": {
+      "count": 9,
+      "items": [
+        {
+          "id": "sm001",
+          "forward": {
+            "text": "なつ",
+            "reading": "なつ",
+            "meaning": "夏",
+            "pos": "名詞"
+          },
+          "backward": {
+            "text": "つな",
+            "reading": "つな",
+            "meaning": "綱",
+            "pos": "名詞"
+          },
+          "score": 17.2,
+          "chars": 2
+        },
+        {
+          "id": "sm002",
+          "forward": {
+            "text": "みず",
+            "reading": "みず",
+            "meaning": "水",
+            "pos": "名詞"
+          },
+          "backward": {
+            "text": "ずみ",
+            "reading": "ずみ",
+            "meaning": "済み",
+            "pos": "名詞"
+          },
+          "score": 17.0,
+          "chars": 2
+        },
+        {
+          "id": "sm003",
+          "forward": {
+            "text": "なみ",
+            "reading": "なみ",
+            "meaning": "波",
+            "pos": "名詞"
+          },
+          "backward": {
+            "text": "みな",
+            "reading": "みな",
+            "meaning": "皆",
+            "pos": "代名詞"
+          },
+          "score": 18.0,
+          "chars": 2
+        },
+        {
+          "id": "sm004",
+          "forward": {
+            "text": "うみ",
+            "reading": "うみ",
+            "meaning": "海",
+            "pos": "名詞"
+          },
+          "backward": {
+            "text": "みう",
+            "reading": "みう",
+            "meaning": "見う（古語）",
+            "pos": "動詞"
+          },
+          "score": 16.5,
+          "chars": 2
+        },
+        {
+          "id": "sm005",
+          "forward": {
+            "text": "かい",
+            "reading": "かい",
+            "meaning": "貝",
+            "pos": "名詞"
+          },
+          "backward": {
+            "text": "いか",
+            "reading": "いか",
+            "meaning": "烏賊",
+            "pos": "名詞"
+          },
+          "score": 18.4,
+          "chars": 2,
+          "note": "try01からの再掲"
+        }
+      ]
+    },
+    "秋": {
+      "count": 9,
+      "items": [
+        {
+          "id": "au001",
+          "forward": {
+            "text": "つき",
+            "reading": "つき",
+            "meaning": "月",
+            "pos": "名詞"
+          },
+          "backward": {
+            "text": "きつ",
+            "reading": "きつ",
+            "meaning": "狐（略称）",
+            "pos": "名詞"
+          },
+          "score": 19.1,
+          "chars": 2,
+          "note": "秋の月と狐の伝承的関連"
+        },
+        {
+          "id": "au002",
+          "forward": {
+            "text": "くり",
+            "reading": "くり",
+            "meaning": "栗",
+            "pos": "名詞"
+          },
+          "backward": {
+            "text": "りく",
+            "reading": "りく",
+            "meaning": "陸",
+            "pos": "名詞"
+          },
+          "score": 17.4,
+          "chars": 2,
+          "note": "try01からの再掲"
+        },
+        {
+          "id": "au003",
+          "forward": {
+            "text": "もみじ",
+            "reading": "もみじ",
+            "meaning": "紅葉",
+            "pos": "名詞"
+          },
+          "backward": {
+            "text": "じみも",
+            "reading": "じみも",
+            "meaning": "地味も（口語）",
+            "pos": "形容動詞＋助詞"
+          },
+          "score": 17.8,
+          "chars": 3
+        }
+      ]
+    },
+    "冬": {
+      "count": 5,
+      "items": [
+        {
+          "id": "wn001",
+          "forward": {
+            "text": "ゆき",
+            "reading": "ゆき",
+            "meaning": "雪",
+            "pos": "名詞"
+          },
+          "backward": {
+            "text": "きゆ",
+            "reading": "きゆ",
+            "meaning": "消ゆ（古語）",
+            "pos": "動詞"
+          },
+          "score": 18.8,
+          "chars": 2,
+          "note": "雪の儚さを表現"
+        },
+        {
+          "id": "wn002",
+          "forward": {
+            "text": "とし",
+            "reading": "とし",
+            "meaning": "年",
+            "pos": "名詞"
+          },
+          "backward": {
+            "text": "しと",
+            "reading": "しと",
+            "meaning": "しと（擬音語）",
+            "pos": "副詞"
+          },
+          "score": 16.0,
+          "chars": 2
+        }
+      ]
+    }
+  },
+  "statistics": {
+    "by_length": {
+      "2_chars": 22,
+      "3_chars": 6,
+      "4_chars": 1
+    },
+    "by_season": {
+      "spring": 6,
+      "summer": 9,
+      "autumn": 9,
+      "winter": 5
+    },
+    "highest_score": {
+      "tenbun": "くさ⇔さく",
+      "score": 19.3,
+      "season": "春"
+    }
+  }
+}
